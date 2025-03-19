@@ -1,5 +1,5 @@
 title: Tejaswini Dasari
-<img src="{{ site.baseurl }}/assets/1663896749859.jpg" alt="Tejaswini Dasari">
+image = https://github.com/Tejaswini-dasari/portfolio/blob/main/assets/1663896749859.jpg
 description: text below image
 show_download: true
 theme: jekyll-theme-minimal

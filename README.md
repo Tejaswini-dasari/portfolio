@@ -17,9 +17,15 @@ Math, Physics, Chemistry | Sri Gayatri Junior College [2019]
 * Got familiarized with the professional work environment
 
 ### Certifications
-#### 
-[![Data Science](https://github.com/Tejaswini-dasari/portfolio/blob/main/assets/DS.png)](https://DS.com)
-[![SQL Server](https://github.com/Tejaswini-dasari/portfolio/blob/main/assets/SQL.png)](https://SQL.com)
+
+<a href="https://example.com">
+  <img src="assets/DS.png" alt="Clickable Image">
+</a>
+<a href="https://example1.com">
+  <img src="assets/SQL.png" alt="Clickable Image1">
+</a>
+
+
 
 ### Academic Projects
 ##### Chronic Kidney Disease Prediction Using Machine Learning

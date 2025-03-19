@@ -1,5 +1,7 @@
 title: Tejaswini Dasari
 image: /assets/1663896749859.jpg
+image_width: 300px
+image_height: auto
 description: text below image
 show_download: true
 theme: jekyll-theme-minimal

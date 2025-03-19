@@ -21,8 +21,9 @@ Math, Physics, Chemistry | Sri Gayatri Junior College [2019]
 * Gathered datasets containg patients health reports
 * Cleaned the data and made predictions using Machine Learning algorithms like Random Forest CLassifier, Decision Tree.
 * Used various python libraries for analysis and visualization including Pandas, Matplotlib.
+
 ##### Life Expectancy Prediction using Machine Learning
 * collect the datasets from survey reports and medical reports
 * Cleaned and analyzed the data using Python and Machine Learning concepts like Support Vector Machine Algorithm, Numpy Library, Seaborn Library, Decision Tree classifiers.
 
-
+### Certifications

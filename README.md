@@ -22,7 +22,9 @@ Math, Physics, Chemistry | Sri Gayatri Junior College [2019]
 <a href="https://example.com">
   <img src="assets/DS.png" alt="Clickable Image">
 </a>
-
+<a href="https://example1.com">
+  <img src="assets/SQL.png" alt="Clickable Image1">
+</a>
 
 ### Academic Projects
 ##### Chronic Kidney Disease Prediction Using Machine Learning

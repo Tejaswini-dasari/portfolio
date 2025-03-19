@@ -17,11 +17,16 @@ Math, Physics, Chemistry | Sri Gayatri Junior College [2019]
 * Got familiarized with the professional work environment
 
 ### Certifications
-#### [![Data Science](https://github.com/Tejaswini-dasari/portfolio/blob/main/assets/DS.png)](https://DS.com)
+#### 
+[![Data Science](https://github.com/Tejaswini-dasari/portfolio/blob/main/assets/DS.png)](https://DS.com)
+<a href="https://example.com">
+  <img src="assets/DS.png" alt="Clickable Image">
+</a>
+
 
 ### Academic Projects
 ##### Chronic Kidney Disease Prediction Using Machine Learning
-* Gathered datasets containg patients health reports
+* Gathered datasets containing patients health reports
 * Cleaned the data and made predictions using Machine Learning algorithms like Random Forest CLassifier, Decision Tree.
 * Used various python libraries for analysis and visualization including Pandas, Matplotlib.
 

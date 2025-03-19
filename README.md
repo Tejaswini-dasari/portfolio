@@ -16,6 +16,9 @@ Math, Physics, Chemistry | Sri Gayatri Junior College [2019]
 * Gained knowledge on programming languages like C#, HTML, CSS, JavaScript.
 * Got familiarized with the professional work environment
 
+### Certifications
+#### 
+
 ### Academic Projects
 ##### Chronic Kidney Disease Prediction Using Machine Learning
 * Gathered datasets containg patients health reports
@@ -26,4 +29,3 @@ Math, Physics, Chemistry | Sri Gayatri Junior College [2019]
 * Collected the datasets from survey reports and medical reports
 * Cleaned and analyzed the data using Python and Machine Learning concepts like Support Vector Machine Algorithm, Numpy Library, Seaborn Library, Decision Tree classifiers.
 
-### Certifications

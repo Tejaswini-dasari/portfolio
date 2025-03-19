@@ -21,7 +21,8 @@ Math, Physics, Chemistry | Sri Gayatri Junior College [2019]
 <a href="https://example.com">
   <img src="assets/DS.png" alt="Clickable Image">
 </a>
-[![SQL Server](https://github.com/Tejaswini-dasari/portfolio/blob/main/assets/SQL.png)](https://github.com/Tejaswini-dasari/portfolio/blob/main/assets/SQL.pdf)
+
+[![SQL Server](https://raw.githubusercontent.com/Tejaswini-dasari/portfolio/main/assets/SQL.png)](https://github.com/Tejaswini-dasari/portfolio/blob/main/assets/SQL.pdf)
 
 [![AI Associate](https://github.com/Tejaswini-dasari/portfolio/blob/main/assets/AI%20Associate.png)](https://github.com/Tejaswini-dasari/portfolio/blob/main/assets/Cert5477744_AIAssociate_20241218%20(2).pdf)
 

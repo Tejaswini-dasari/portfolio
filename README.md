@@ -24,7 +24,7 @@ Math, Physics, Chemistry | Sri Gayatri Junior College [2019]
 
 ![SQL Server](/assets/SQL.png)
 
-(https://raw.githubusercontent.com/Tejaswini-dasari/portfolio/main/assets/AI%20Associate.png)
+![AI Associate](https://raw.githubusercontent.com/Tejaswini-dasari/portfolio/main/assets/AI%20Associate.png)
 ### Academic Projects
 ##### Chronic Kidney Disease Prediction Using Machine Learning
 * Gathered datasets containing patients health reports

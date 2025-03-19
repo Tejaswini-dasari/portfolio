@@ -22,9 +22,9 @@ Math, Physics, Chemistry | Sri Gayatri Junior College [2019]
   <img src="assets/DS.png" alt="Clickable Image">
 </a>
 
-[![SQL Server](/assets/SQL.png)]
+![SQL Server](/assets/SQL.png)
 
-[![AI Associate](https://github.com/Tejaswini-dasari/portfolio/blob/main/assets/AI%20Associate.png)]
+![AI Associate](https://github.com/Tejaswini-dasari/portfolio/blob/main/assets/AI%20Associate.png)
 
 
 

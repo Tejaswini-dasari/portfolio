@@ -1,6 +1,6 @@
 # Business Analyst
 Technical Skills: SQL Server, Power BI, Python, Machine Learning, Artificial Intelligence 
-
+![profile](https://github.com/Tejaswini-dasari/portfolio/blob/main/assets/1663896749859.jpg)
 ### Education
 #### Executive Post Graduate: 
 Pursuing Executive Post Graduate Program in Data Science and Artificial Intelligence from Intellipaat

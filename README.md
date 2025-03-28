@@ -1,4 +1,4 @@
-# Business Analyst
+# Data Scientist
 Technical Skills: SQL Server, Power BI, Python, Machine Learning, Artificial Intelligence 
  
 ### Education
